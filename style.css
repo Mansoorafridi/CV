@@ -1,0 +1,30 @@
+
+.box{
+    width: 1189px;height: 150px;background-color:#E5C4B8 ;margin-left: 150px;position: relative;
+    top: 50px;
+}
+.box1{
+    width: 190px;height: 648px;background-color: #649694 ;position: relative;bottom: 172px;
+    margin-left: 25px;
+}
+img{
+    border-radius: 70px;position: relative;left: 18px;top: 60px;
+}
+
+#first{
+    position: relative;left: 100px;top: 50px;
+} #second{
+    position: relative;left: 150px;top: 30px;
+}  
+.third{
+    position: relative;top: 70px;margin-left: 20px;
+} #fifth{
+    position: relative;top: 80px;left: 20px;
+} #div{
+    position: relative;left: 90px;top: 100px} body{
+        background-color:whitesmoke;
+    }
+.box2
+{
+    background-color:#E5C4B8 ;width: 33px;height: 150px;position: relative;right: 33px; bottom: 280px;
+} 
